@@ -91,7 +91,7 @@ If you find our work helpful, please cite:
 ```bibtex
 @article{wallss2026,
   title   = {WALL-SS: Scaling Long-horizon World Models via Next-Scale Autoregression},
-  author  = {X Square Robot Team, Maeve Zhang, Rain Sun, Xiang Wang, Cyril Zhang, Shalfun Li, ...},
+  author  = {Maeve Zhang∗, Rain Sun∗, Xiang Wang∗, Cyril Zhang∗, Shalfun Li∗†, Meng Cao, Howard Lu, Ethan Chen, Harry jhou, KZ Zheng, Lights Shi, Regis Cheng, Lorenzin, Robert Wang, Victor Yao, Gody Li, Elise Mon, Yohann Tang, Ryan Yu, PS Zhang, Vincent Chen, Hang Su, Roy Gan, Hao Wang‡, Qian Wang},
   year    = {2026}
 }
 ```
