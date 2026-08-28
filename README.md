@@ -11,7 +11,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2608.26239-b31b1b.svg)](https://arxiv.org/pdf/2608.26239)
 [![Homepage](https://img.shields.io/badge/Homepage-%F0%9F%8C%90-blue)](https://wall-ss.ws-robotics.workers.dev/)
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/X-Square-Robot/wall-ss)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Paper-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/papers/2608.26239)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Paper-1F2937?logo=huggingface&logoColor=FFD21E)](https://huggingface.co/papers/2608.26239)
 [![ModelScope](https://img.shields.io/badge/ModelScope-Paper-624FF2?logo=modelscope)](https://modelscope.cn/papers/2608.26239)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
 
