@@ -8,8 +8,8 @@
 
 <div id="top" align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](wall-ss-paper.pdf)
-[![Homepage](https://img.shields.io/badge/Homepage-%F0%9F%8C%90-blue)](https://x2robot.com/en/pages/ss)
+[![arXiv](https://img.shields.io/badge/arXiv-2608.26239-b31b1b.svg)](https://arxiv.org/pdf/2608.26239)
+[![Homepage](https://img.shields.io/badge/Homepage-%F0%9F%8C%90-blue)](https://wall-ss.ws-robotics.workers.dev/)
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/X-Square-Robot/wall-ss)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
 
@@ -89,10 +89,14 @@ Scan the QR code on WeChat to join the discussion group, where you can engage in
 If you find our work helpful, please cite:
 
 ```bibtex
-@article{wallss2026,
-  title   = {WALL-SS: Scaling Long-horizon World Models via Next-Scale Autoregression},
-  author  = {Maeve Zhang, Rain Sun, Xiang Wang, Cyril Zhang, Shalfun Li, Meng Cao, Howard Lu, Ethan Chen, Harry jhou, KZ Zheng, Lights Shi, Regis Cheng, Lorenzin, Robert Wang, Victor Yao, Gody Li, Elise Mon, Yohann Tang, Ryan Yu, PS Zhang, Vincent Chen, Hang Su, Roy Gan, Hao Wang, Qian Wang},
-  year    = {2026}
+@misc{zhang2026wallssscalinglonghorizonworld,
+      title={WALL-SS: Scaling Long-horizon World Models via Next-Scale Autoregression}, 
+      author={Maeve Zhang and Rain Sun and Xiang Wang and Cyril Zhang and Shalfun Li and Meng Cao and Howard Lu and Ethan Chen and Harry Jhou and KZ Zheng and Lights Shi and Regis Cheng and Lorenzin and Robert Wang and Victor Yao and Gody Li and Elise Mon and Yohann Tang and Ryan Yu and PS Zhang and Vincent Chen and Hang Su and Roy Gan and Hao Wang and Qian Wang},
+      year={2026},
+      eprint={2608.26239},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2608.26239}, 
 }
 ```
 
